@@ -1,7 +1,7 @@
 body  {
     font-family: 'Bitter', serif;	
 	font-weight: 800;
-		color:red;
+		color:black;
 }	
 
 h6,
@@ -16,4 +16,7 @@ h2,
 
 img {width:150px}
 
-#footer {backgound-color:blue}
+#footer {background-color:blue;color:#fff} 
+
+  #lowerfooter {background-color:darkblue;} 
+  #lowerfooter i {font-size:60px;color:#fff;margin:16px 6px 8px 3px} 
