@@ -20,3 +20,13 @@ img {width:150px}
 
   #lowerfooter {background-color:darkblue;} 
   #lowerfooter i {font-size:60px;color:#fff;margin:16px 6px 8px 3px} 
+ 
+.memeberBenefits i {font-size:200px;color:#fff;}
+.memeberBenefits p {font-size:24px;color:#fff;margin-top:12px}
+.mBBox  {background-color:red;padding:15px; border-radius:15px}
+
+
+.pBox{}
+.pBox img {z-index:-1}
+.pBox button  {z-index:2;position:absoltue;right:25%}
+.pBox button:hover {}
